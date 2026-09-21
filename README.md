@@ -11,6 +11,8 @@ I'm a full-stack developer and independent systems builder based in Port Harcour
 I design and ship software that closes operational gaps, from inventory loss prevention to 
 turning research-grade AI models into tools people can actually use.
 
+---
+
 - **Specializing in:** Full-stack web development, database-driven systems, deploying ML models to production  
 - **Core Stack:** PHP, MySQL, JavaScript, HTML/CSS  
 - **Also working with:** Python, Flask, Git, REST APIs, Chart.js  
