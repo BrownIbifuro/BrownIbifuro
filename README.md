@@ -3,36 +3,26 @@
 </p>
 
 <p align="center">
-  <strong>Frontend Engineer | React | JavaScript | UI/UX Focused</strong>
+  <strong>Full-Stack Developer | Building Operational Tools for Real-World Problems</strong>
 </p>
 
 ### About Me
+I'm a full-stack developer and independent systems builder based in Port Harcourt, Nigeria. 
+I design and ship software that closes operational gaps, from inventory loss prevention to 
+turning research-grade AI models into tools people can actually use.
 
-I’m a frontend engineer focused on building responsive and user-friendly web applications.  
-I enjoy solving real-world problems through clean UI and intuitive user experiences.
-
-- **Currently Learning:** Advanced React & frontend architecture  
-- **Specializing In:** Frontend development, UI design, responsive interfaces  
-- **Ask Me About:** React, JavaScript, UI/UX, web development  
-- **Fun Fact:** I love turning complex ideas into simple, usable interfaces  
-
----
-
-### Tech Stack
-
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks:** React  
-- **Styling:** Tailwind CSS, Responsive Design  
-- **Tools:** Git, GitHub, VS Code, Figma  
-- **APIs:** REST APIs  
+- **Specializing in:** Full-stack web development, database-driven systems, deploying ML models to production  
+- **Core Stack:** PHP, MySQL, JavaScript, HTML/CSS  
+- **Also working with:** Python, Flask, Git, REST APIs, Chart.js  
+- **Ask me about:** I love turning complex ideas into simple, usable interfaces   
 
 ---
 
 ### Featured Projects
 
-- Product Expiry Monitoring System  
-- Appointment Booking System  
-- User Authentication System  
+- **ExpiryWatch** — Full-stack inventory and expiry monitoring system with role-based access, automated alerts, and reporting dashboards 
+- **Fibroid Risk Prediction Tool** — Deployed an XGBoost research model as a production Flask web application  
+- **Secure User Authentication System** — Login/signup system balancing security and usability  
 
 ---
 
@@ -43,7 +33,6 @@ I enjoy solving real-world problems through clean UI and intuitive user experien
 ---
 
 ### Let’s Collaborate
-I’m passionate about building clean, responsive, and user-friendly web interfaces that solve real-world problems.  
-Got an idea, project, or need help bringing a UI to life? Let’s connect and build something impactful.
+Open to internship and collaboration opportunities in digital development, applied AI, and operational tooling
 
 *Thanks for visiting my profile.*
